@@ -1,4 +1,4 @@
-# wabot-aq
+# BOT ISALL V3
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -28,8 +28,9 @@ Simple WhatsApp Bot
 ```
 
 # Sosmed
+```
 > Instagram: @faisall_wapi
 > YouTube: ISALL GANS
-> WhatsApp: -
-> Credit: ISALL GANS
+> Saweria: https://saweria.co/fwgaming
+> Credit: faisal wapi
 ```
